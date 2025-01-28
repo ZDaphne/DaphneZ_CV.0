@@ -199,6 +199,14 @@ section a:hover {
     color: #2c3e50;
 }
 
+.card ul {
+    list-style-position: inside;
+    padding-left: 0;
+    margin: 0 auto;
+    text-align: left;
+    display: inline-block;
+}
+
 /* General Styles for Contact Page */
 body {
     margin: 0;
