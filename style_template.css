@@ -248,7 +248,7 @@ form input:focus, form textarea:focus {
 
 form button {
     padding: 18px;
-    background-color: #14898f;
+    background-color: #06768d;
     color: #fff;
     border: none;
     border-radius: 5px;
@@ -258,7 +258,7 @@ form button {
 }
 
 form button:hover {
-    background-color: #16a085;
+    background-color: #046276;
 }
 
 /* Thank You Page Styles */
